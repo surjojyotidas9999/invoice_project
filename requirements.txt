@@ -1,7 +1,7 @@
 Flask
 gunicorn
 pdfplumber
-panda
+pandas
 contourpy==1.3.3
 cycler==0.12.1
 et_xmlfile==2.0.0
